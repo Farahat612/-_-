@@ -1,0 +1,197 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+html,
+body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.7;
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  background-color: #3d3f45;
+}
+*{
+     color: white;
+    box-sizing: border-box;
+}
+
+
+h1 {
+  color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: 0.5s;
+    margin-bottom: 0;
+}
+
+
+body::-webkit-scrollbar {
+  width: 5px;
+}
+/* Track */
+body::-webkit-scrollbar-track {
+  border-radius: 10px;
+}
+
+/* Handle */
+body::-webkit-scrollbar-thumb {
+  background: #666b7a;
+  border-radius: 10px;
+}
+
+textarea {
+  width: 100%;
+  height: 100%;
+  padding: 1rem;
+  background: #253237;
+  color: white;
+  outline: none;
+  border: none;
+}
+.main-title {
+  display: flex;
+}
+h2 {
+  margin: 0;
+}
+.editorContainer {
+  height: 50vh;
+  display: flex;
+}
+
+@media (max-width: 850px) {
+  .editorContainer {
+    flex-direction: column;
+    height: 66vh;
+  }
+}
+
+.editorContainer .collapse {
+  flex-grow: 0;
+}
+
+.outputContainer {
+  min-height: 50vh;
+  user-select: none;
+  border-bottom: 20px solid hsl(225, 6%, 25%);
+
+}
+
+
+.wrapper {
+  flex-grow: 1;
+  flex-basis: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 0.5rem;
+  background: #3d3f45;
+  position: relative;
+  margin-bottom: 20px;
+  
+}
+
+.title {
+  display: flex;
+  justify-content: space-between;
+  background: #649173;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #DBD5A4, #649173);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #DBD5A4, #649173); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: #fff;
+  padding: 0.5rem;
+  padding-left: 1rem;
+  border-radius: 0.5rem 0.5rem 0 0;
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+
+
+.title h2 {
+  color: #000;
+  font-weight: 600;
+  line-height: 50px;
+}
+
+.title .icon {
+  margin-right: 5px;
+  width: 25px;
+}
+
+.control {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  background: transparent;
+  opacity: 70%;
+  border: none;
+  outline: none;
+  font-size: 1.6rem;
+  cursor: pointer;
+  margin-top: 4px;
+}
+
+.control::before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+
+.hidden {
+  display: none;
+}
+
+.clear {
+  position: absolute;
+  top: 65px;
+  right: 15px;
+  background: hsl(0, 0%, 54%);
+  color: #fff;
+  border: none;
+  outline: none;
+  border-radius: 15px;
+  opacity: 0.75;
+  display: none;
+  cursor: pointer;
+}
+
+.wrapper:hover .clear {
+  display: block;
+}
+
+.clear:hover {
+  opacity: 1;
+}
+
+
+
+.copy-btn {
+  background: #212d31;
+  border: none;
+  cursor: pointer;
+  color: #fff;
+  font-size: 1.1rem;
+  font-family: 'Lato', sans-serif;
+  padding: 8px 5px;
+  cursor: pointer;
+  text-align: center;
+  transition: 0.25s ease-in-out;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.copy-btn span {
+  margin-right: 5px;
+}
+.copy-btn:hover {
+  background: #3a505871;
+}
+
+.product {
+  background-color: #696969;
+}
