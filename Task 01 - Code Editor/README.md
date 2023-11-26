@@ -39,7 +39,7 @@ CodMe is a web-based live code editor that provides a convenient environment for
 
 To get started with CodMe, follow these simple steps:
 
-1. Clone or download the CodMe repository from [GitHub](#repo-url).
+1. Clone or download the CodMe repository from [GitHub](#).
 2. Open the `index.html` file in your web browser.
 
 ## Usage
