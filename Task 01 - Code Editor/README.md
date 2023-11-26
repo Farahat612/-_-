@@ -2,6 +2,14 @@
 
 Welcome to CodMe, your perfect lightweight, fast, and responsive live code editor. CodMe allows you to write and visualize HTML, CSS, and JavaScript code in real-time. This document provides an overview of the features and usage of CodMe.
 
+## Watch A Demo
+
+<div align="center">
+  <video width="100%" src="#">
+</div>
+
+> [Or Try it here]().
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -78,8 +86,8 @@ We welcome contributions to improve CodMe. If you have suggestions, bug reports,
 
 ## Acknowledgment
 
-This project is Task 01 for the CodeAlpha Internship.
+> This project serves as Task 01 for the `CodeAlpha` Web Dev Internship.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](../LICENSE).
