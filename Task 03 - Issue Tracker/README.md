@@ -5,7 +5,7 @@ Issue Tracker is a web application designed to manage and keep track of issues e
 ## Watch A Demo
 
 <div align="center">
-  <video width="100%" src="#">
+  <video width="100%" src="media/demo.mp4">
 </div>
 
 > [Or Try it here](https://farahat612.github.io/codealpha_taks/Task%2003%20-%20Issue%20Tracker/index.html).
