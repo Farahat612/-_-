@@ -8,7 +8,7 @@ Task Scheduler is a simple web application that allows users to add and manage t
   <video width="100%" src="media/demo.mp4">
 </div>
 
-> [Or Try it here](https://farahat612.github.io/codealpha_taks/Task%2002%20-%20Task%20Scheduler/index.html).
+> [Or Try it here](https://farahat612.github.io/codealpha_tasks/Task%2002%20-%20Task%20Scheduler/index.html).
 
 ## Table of Contents
 

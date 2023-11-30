@@ -15,9 +15,9 @@ Welcome to the CodeAlpha Web Development Internship repository! This repository 
 
 Experience the projects by trying them out:
 
-1. [Task 01 - Code Editor - Demo](https://farahat612.github.io/codealpha_taks/Task%2001%20-%20Code%20Editor/index.html)
-2. [Task 02 - Task Scheduler - Demo](https://farahat612.github.io/codealpha_taks/Task%2002%20-%20Task%20Scheduler/index.html)
-3. [Task 03 - Issue Tracker - Demo](https://farahat612.github.io/codealpha_taks/Task%2003%20-%20Issue%20Tracker/index.html)
+1. [Task 01 - Code Editor - Demo](https://farahat612.github.io/codealpha_tasks/Task%2001%20-%20Code%20Editor/index.html)
+2. [Task 02 - Task Scheduler - Demo](https://farahat612.github.io/codealpha_tasks/Task%2002%20-%20Task%20Scheduler/index.html)
+3. [Task 03 - Issue Tracker - Demo](https://farahat612.github.io/codealpha_tasks/Task%2003%20-%20Issue%20Tracker/index.html)
 
 ## Task 01 - Code Editor
 

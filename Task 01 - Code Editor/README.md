@@ -8,7 +8,7 @@ Welcome to CodMe, your perfect lightweight, fast, and responsive live code edito
   <video width="100%" src="media/demo.mp4">
 </div>
 
-> [Or Try it here](https://farahat612.github.io/codealpha_taks/Task%2001%20-%20Code%20Editor/index.html).
+> [Or Try it here](https://farahat612.github.io/codealpha_tasks/Task%2001%20-%20Code%20Editor/index.html).
 
 ## Table of Contents
 
